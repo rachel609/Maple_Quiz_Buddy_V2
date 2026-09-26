@@ -120,3 +120,7 @@ Runs with mock data when API keys start with `TEST_` -- no real API calls needed
 ## License
 
 MIT
+
+---
+
+*Built with ❤️ and 🍁 — because every new Canadian deserves a study buddy.*
