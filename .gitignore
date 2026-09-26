@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/vectorstore/
+data/score_log.json
+data/wrong_answers.json
+v1_reference/

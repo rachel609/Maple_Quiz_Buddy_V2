@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "maple-quiz-buddy-v2": {
+      "command": "python",
+      "args": ["E:/Maple_Quiz_Buddy_V2/mcp_server/server.py"],
+      "env": {
+        "XAI_API_KEY": "YOUR_REAL_XAI_API_KEY_HERE"
+      }
+    }
+  }
+}
